@@ -1,0 +1,4 @@
+aws/.terraform
+aws/terraform.tfstate
+azure/.terraform
+.idea
